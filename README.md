@@ -11,7 +11,7 @@ Push to the branch: git push origin my-new-feature
 Submit a pull request :D
 
 ## Credits
-TODO: Write credits
+TODO: Deadpool
 
 ## License
 TODO: Write license
